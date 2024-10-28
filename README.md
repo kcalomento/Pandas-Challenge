@@ -60,13 +60,15 @@ Using a combination of school and student data, the analysis reveals patterns in
 ### ⚙️ **Modify Parameters**
 To explore further, consider adjusting:
 
-Spending Bins: Customize spending ranges to see how different budget allocations influence outcomes.
-School Size Ranges: Change the size bins to examine performance across alternative groupings.
-Additional Groupings: Add new dimensions to uncover unique trends within the data.
+- **Spending Bins**: Customize spending ranges to see how different budget allocations influence outcomes.
+
+- **School Size Ranges**: Change the size bins to examine performance across alternative groupings.
+
+- **Additional Groupings**: Add new dimensions to uncover unique trends within the data.
 
 **Conclusions and Next Steps**
 Findings show that smaller schools and Charter schools contribute significantly to higher academic performance in the PyCity district. With these insights, district leaders can focus on resource allocation, study effective practices from Charter schools, and prioritize more personalized learning environments to benefit student outcomes.
 
 ### **Requirements**
-Python Libraries: pandas
-Environment: Jupyter Notebook or JupyterLab
+**Python Libraries**: pandas
+**Environment**: Jupyter Notebook
