@@ -70,6 +70,6 @@ To explore further, consider adjusting:
 Findings show that smaller schools and Charter schools contribute significantly to higher academic performance in the PyCity district. With these insights, district leaders can focus on resource allocation, study effective practices from Charter schools, and prioritize more personalized learning environments to benefit student outcomes.
 
 ### **Requirements**
-**Python Libraries**: pandas
+- **Python Libraries**: pandas
 
-**Environment**: Jupyter Notebook
+- **Environment**: Jupyter Notebook
