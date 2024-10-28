@@ -44,8 +44,8 @@ Using a combination of school and student data, the analysis reveals patterns in
 ### 🚀 **Getting Started**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pycity_schools_analysis.git
-   cd pycity_schools_analysis
+   git clone git@github.com:kcalomento/Pandas-Challenge.git
+   cd Pandas-Challenge
 
 2. **Set Up Dependencies**
 - Ensure pandas is installed:
