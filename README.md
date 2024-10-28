@@ -49,12 +49,12 @@ Using a combination of school and student data, the analysis reveals patterns in
 
 2. **Set Up Dependencies**
 - Ensure pandas is installed:
-bash
+   ```bash
 pip install pandas
 
 3. **Run the Jupyter Notebook**
 - Open py_city_schools.ipynb in Jupyter Notebook or JupyterLab, and execute each cell sequentially to complete the analysis:
-
+   ```bash
 jupyter notebook py_city_schools.ipynb
 
 ### ⚙️ **Modify Parameters**
